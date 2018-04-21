@@ -1,10 +1,6 @@
-# file
-geeky-file
-===================
+This package make upload files so easy localy or on cloud just determine what is your disk in the config file and enjoy uploading.
 
-This package make upload files so easy localy or on colou
-
-##Requirements
+## Requirements
 
 For the creation of thumbnails of svg's or pdf's you should also install Imagick.
 
