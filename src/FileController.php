@@ -4,7 +4,6 @@ namespace Geeky\File;
 
 /* Includes */
 use App;
-use Image;
 use Storage;
 use Imagick;
 use App\Http\Controllers\Controller;
