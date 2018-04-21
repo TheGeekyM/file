@@ -1,6 +1,6 @@
 {
     "name": "geeky/file",
-    "description": "This package parses CV via daxtra then gives you a structured data.",
+    "description": "Make laravel files easy to upload 'local | bublic | s3 | ...'  ",
     "type": "library",
     "license": "MIT",
     "keywords": ["file","upload" , "laravel"],
