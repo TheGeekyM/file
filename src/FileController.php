@@ -92,7 +92,7 @@ class FileController extends Controller
 
 	function setVisibility($file, $visibility = 'public')
 	{
-		return $this->storage->setVisibility($file, $visibility)
+		return $this->storage->setVisibility($file, $visibility);
 	}
 
 }
